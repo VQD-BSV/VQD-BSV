@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsvrecovery&label=Profile%20views&color=0e75b6&style=flat" alt="bsvrecovery" /> </p>
 
-- 🌱 I’m currently learning **THCS Hùng Vương**
 
 - 🔭 I’m currently working on
 	- Facebook [BSV Recovery](https://www.facebook.com/BSVRecovery)
