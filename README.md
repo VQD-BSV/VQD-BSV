@@ -17,7 +17,10 @@
 
 - 📝
 
-- 📫 Gmail **BSVRecovery@gmail.com & QuangDaiVQD@gmail.com & BevisVu@gmail.com**
+- 📫 Gmail
+	- **BSVRecovery@gmail.com**
+	- **QuangDaiVQD@gmail.com**
+	- **BevisVu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
