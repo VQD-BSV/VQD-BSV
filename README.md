@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vũ Quang Đại (Vu Quang Dai & Bevis Vũ)</h1>
 <h3 align="center">I specialize in data recovery and software development come from Vietnam</h3>
 
-<img align="right" alt="image" width = "290" src="https://github-production-user-asset-6210df.s3.amazonaws.com/127699283/263504878-dd4a0ae8-4ed1-4130-9825-11eb1cf185ac.png">
+<img align="right" alt="image" width = "350" src="https://github-production-user-asset-6210df.s3.amazonaws.com/127699283/263504878-dd4a0ae8-4ed1-4130-9825-11eb1cf185ac.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsvrecovery&label=Profile%20views&color=0e75b6&style=flat" alt="bsvrecovery" /> </p>
 
