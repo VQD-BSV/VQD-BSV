@@ -11,12 +11,6 @@
 	- Youtube [BSV Recovery](https://www.youtube.com/@BSVRecovery)
 	- Youtube [BSV Coder](https://www.youtube.com/@BSVCoder)
 
-- 🤝
-
-- 👨‍💻
-
-- 📝
-
 - 📫 Gmail
 	- **BSVRecovery@gmail.com**
 	- **QuangDaiVQD@gmail.com**
