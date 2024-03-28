@@ -5,12 +5,11 @@
 ![Vũ Quang Đại (Bevis Vũ)'s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VQD-BSV&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/VQD-BSV/RecoveryJpeg">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VQD-BSV&repo=RecoveryJpeg&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=RecoveryJpeg&theme=radical" />
 </a>    
 
 <a href="https://github.com/VQD-BSV/Recovery_RZ">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VQD-BSV&repo=Recovery_RZ&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=Recovery_RZ&theme=merko" />
 </a>
 
 
