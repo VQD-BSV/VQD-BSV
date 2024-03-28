@@ -4,6 +4,17 @@
 ## 📊GitHub Stats
 ![Vũ Quang Đại (Bevis Vũ)'s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VQD-BSV&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/VQD-BSV/FreeTool">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VQD-BSV&repo=FreeTool&theme=radical" />
+</a>    
+
+<a href="https://github.com/VQD-BSV/Recovery_RZ">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VQD-BSV&repo=Recovery_RZ&theme=merko" />
+</a>
+
+
 ## 💰You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BSVPay) 
 
